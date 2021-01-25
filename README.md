@@ -29,8 +29,8 @@
 
 ### ⚡Working with GIT⚡
    <div align="center">
-     <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=xuanquy79xx&show_icons=true&theme=gotham" />
-     <img height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanquy79xx&layout=compact&theme=gotham" />
+     <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=xuanquy79xx&show_icons=true&theme=gotham" />
+     <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanquy79xx&layout=compact&theme=gotham" />
    </div>
 
  
