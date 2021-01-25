@@ -1,7 +1,7 @@
 !!! Hey Yo, i'm Quy <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xuanquy79xx)
-<img src="https://img.shields.io/github/forks/xuanquy79xx/xuanquy79xx"/>
+<a href="https://github.com/xuanquy79xx"><img href="https://github.com/xuanquy79xx" src="https://img.shields.io/github/forks/xuanquy79xx/xuanquy79xx"/></a>
 ![GitHub followers](https://img.shields.io/github/followers/xuanquy79xx?label=Follow&style=social)
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="32px"/>
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
