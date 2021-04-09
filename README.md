@@ -18,13 +18,15 @@
 #### <a href="https://github.com/xuanquy79xx"><img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width="30"/></a> Back-end 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-light?style=flat&logo=Node.js)](https://github.com/xuanquy79xx)
 [![express](https://img.shields.io/badge/-EXPRESS-light?style=flat&logo=express)](https://github.com/xuanquy79xx)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=Mongodb)](https://github.com/xuanquy79xx)
-[![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql)](https://github.com/xuanquy79xx)
+[![MySQL](https://img.shields.io/badge/-MySQL-f7f7f7?style=flat&logo=mysql)](https://github.com/xuanquy79xx)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-bebabb?style=flat&logo=Mongodb)](https://github.com/xuanquy79xx)
+[![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=redis)](https://github.com/xuanquy79xx)
+[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-4cbdb3?logo=elasticSearch)](https://github.com/xuanquy79xx)
 
 #### <a href="https://github.com/xuanquy79xx"><img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407"  width="30"/></a> Others
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://github.com/xuanquy79xx)
 [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://github.com/xuanquy79xx)
-[![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)](https://github.com/xuanquy79xx)
+[![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-%23282C34?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)](https://github.com/xuanquy79xx)
 
 
 ### ⚡Working with GIT⚡
